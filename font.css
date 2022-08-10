@@ -3,3 +3,10 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,100,700);
 
 body, table, div, p{ font-family: ‘Roboto’, ‘Spoqa Han Sans’, ‘Spoqa Han Sans JP’, ‘Sans-serif’; }
+
+# active {
+color:White;
+background-color:DarkViolet;
+text-decoration:underline;
+}
+  
